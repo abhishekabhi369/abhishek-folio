@@ -50,7 +50,7 @@ function Projects() {
               title="Shopify"
               description="Shopify is an e-commerce platform utilized for facilitating online dress orders.
               The project utilizes MERN technology stack for its development."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/abhishekabhi369/shopify.git"
                             
             />
           </Col>

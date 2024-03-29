@@ -280,11 +280,20 @@ button:focus {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
   }
+  
 }
-
+@media (max-width: 775px) {
+  
+  .homelogo{
+    text-align:center;
+  }
+  .contact-me{
+    padding-right: 1em;
+  }
+}
 .home-about-section {
   position: relative;
-  margin-bottom: 3em ;
+  /* margin-bottom: 3em ; */
   /* padding-top: 70px !important; */
 }
 

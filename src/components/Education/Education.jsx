@@ -88,7 +88,7 @@ function Education() {
               >
                 <div class="card-body ">
                   <h5 class="card-title purple ">
-                    <strong>CUSTOMER SUPPORT ENGINEER</strong>
+                    <strong>IT SUPPORT ENGINEER</strong>
                   </h5>
                   <h6>Information Technology Co-operative Society
 Malappuram,India(JUNE 2019-JUNE 2020)</h6>

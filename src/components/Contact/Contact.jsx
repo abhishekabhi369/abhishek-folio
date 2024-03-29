@@ -24,7 +24,7 @@ function Contact() {
     <Container>
       <Row style={{ justifyContent: "center" }}>
       
-        <div class="heading text-center">
+        <div class="heading text-center contact-me">
           <h2>Contact <strong className='purple'>Me</strong></h2>
         </div>
       </Row>
